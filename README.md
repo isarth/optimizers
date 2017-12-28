@@ -1,7 +1,7 @@
 # Optimizers
 Comparing the Optimizers in Machine Learning
 ### Plotting the Loss vs Epoch for x^2 function for higher dimensions
-<img src='optimizers.png'>
+<img src='./help/optimizers.png'>
 
 ### Footnotes
 
